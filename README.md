@@ -1,4 +1,4 @@
-Official repository for Nexus Scripts.
+Official repository for Nexus.
 
 By Lucent & the Nexus Team
 
