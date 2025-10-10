@@ -1,6 +1,7 @@
 title: Nexus - Loader
 status: Functional
 version: 2.0.2
+type: Premium
 last updated: Oct 09, 2025, 19:32 CEST
 code:
 print("L")
