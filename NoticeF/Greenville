@@ -1,1 +1,9 @@
-
+title: Nexus - Free Loader
+status: Undetected
+version: 2.9
+type: Freemium
+last updated: Dec 20, 2025, 14:08 CEST
+code:
+do 
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/75a396438151a2a5019f0a0d809f74e1.lua"))()
+end
