@@ -1,6 +1,6 @@
 # XNexus.CC / Lucent Software License Agreement  
 
-**Copyright © 2025 XNexus.CC / Lucent. All rights reserved.**  
+**Copyright © 2026 XNexus.CC / Lucent. All rights reserved.**  
 
 This software (including any loaders, scripts, and related assets) is proprietary and licensed, not sold. By downloading, installing, or using this software, you agree to the following terms:  
 
